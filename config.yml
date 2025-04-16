@@ -62,8 +62,8 @@ params:
 
 menu:
   main:
-    - identifier: aboutme
-      name: about me
+    - identifier: about
+      name: about 
       url: /about
       weight: 5
     # - identifier: resume
