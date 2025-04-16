@@ -45,7 +45,7 @@ params:
   profileMode:
     enabled: true
     title: "Chess Observations" # optional default will be site title
-    subtitle: 
+    subtitle: "Thoughts, Ideas, Observations on the Walk Across 64 squares"
     imageUrl: 
     imageTitle: "Christos Panagiotakopoulos' profile picture" # optional
     imageWidth: 120 # custom size
