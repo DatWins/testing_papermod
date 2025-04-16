@@ -8,7 +8,7 @@ categories: ["productivity"]
 
 cover:
     image: "cover.webp"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 You want to create a blog to start sharing some thoughts, ideas or projects. But when you want to post something, you don't want to think a lot about the underlying software, and you definitely don't want to mess with lots of settings, buttons, designs and properties.
