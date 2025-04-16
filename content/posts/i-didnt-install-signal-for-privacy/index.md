@@ -8,7 +8,7 @@ categories: ["opinions"]
 
 cover:
     image: "elon-musk-use-signal.jpg"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 ---
 
