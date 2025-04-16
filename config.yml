@@ -31,10 +31,10 @@ params:
   description: "Thoughts, Ideas, Observations on the Walk Across 64 squares"
   author: A Chess Confucionist
   # author: ["Me", "You"] # multiple authors
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   defaultTheme: auto
   disableThemeToggle: false
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime:
     true
     # disableSpecial1stPost: true
